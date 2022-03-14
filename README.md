@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveenreddy1314
 - 👀 I’m interested in cloud engineering
-- 🌱 I’m currently learning docker, aws
+- 🌱 I’m currently working on docker, jenkins, kubernetes, aws
 - 💞️ I’m looking to collaborate on node js, java script, devops culture tools
 - 📫 How to reach me naveenreddy1314@gmail.com
